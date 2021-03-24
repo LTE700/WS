@@ -1,0 +1,954 @@
+﻿WS,Element
+USME,BOG.Alaska_L1
+USME,BOG.Alaska_L2
+USME,BOG.Alaska_L3
+USME,BOG.Alaska_M1
+USME,BOG.Alaska_M2
+USME,BOG.Alaska_M3
+USME,BOG.Alaska_R1
+USME,BOG.Alaska_R2
+USME,BOG.Alaska_R3
+USME,BOG.Alaska_T1
+USME,BOG.Alaska_T2
+USME,BOG.Alaska_T3
+USME,BOG.Alfonso Lopez_L1
+USME,BOG.Alfonso Lopez_L2
+USME,BOG.Alfonso Lopez_L3
+USME,BOG.Alfonso Lopez_M1
+USME,BOG.Alfonso Lopez_M2
+USME,BOG.Alfonso Lopez_M3
+USME,BOG.Alfonso Lopez_T1
+USME,BOG.Alfonso Lopez_T2
+USME,BOG.Alfonso Lopez_T3
+USME,BOG.Antigua Via Villavo_L1
+USME,BOG.Antigua Via Villavo_M1
+USME,BOG.Antigua Via Villavo_T1
+USME,BOG.Antonio Jose de Sucre-2_L1
+USME,BOG.Antonio Jose de Sucre-2_L2
+USME,BOG.Antonio Jose de Sucre-2_L3
+USME,BOG.Antonio Jose de Sucre-2_M1
+USME,BOG.Antonio Jose de Sucre-2_M2
+USME,BOG.Antonio Jose de Sucre-2_M3
+USME,BOG.Antonio Jose de Sucre-2_R1
+USME,BOG.Antonio Jose de Sucre-2_R2
+USME,BOG.Antonio Jose de Sucre-2_R3
+USME,BOG.Antonio Jose de Sucre-2_T1
+USME,BOG.Antonio Jose de Sucre-2_T2
+USME,BOG.Antonio Jose de Sucre-2_T3
+USME,BOG.Antonio Jose de Sucre_L1
+USME,BOG.Antonio Jose de Sucre_M2
+USME,BOG.Antonio Jose de Sucre_T1
+USME,BOG.Betania_L1
+USME,BOG.Betania_L2
+USME,BOG.Betania_L3
+USME,BOG.Betania_M1
+USME,BOG.Betania_M2
+USME,BOG.Betania_M3
+USME,BOG.Betania_T1
+USME,BOG.Betania_T2
+USME,BOG.Betania_T3
+USME,BOG.Chuniza-2_L1
+USME,BOG.Chuniza-2_L2
+USME,BOG.Chuniza-2_L3
+USME,BOG.Chuniza-2_M1
+USME,BOG.Chuniza-2_M2
+USME,BOG.Chuniza-2_M4
+USME,BOG.Chuniza-2_M5
+USME,BOG.Chuniza-2_R1
+USME,BOG.Chuniza-2_R2
+USME,BOG.Chuniza-2_R3
+USME,BOG.Chuniza-2_T1
+USME,BOG.Chuniza-2_T2
+USME,BOG.Chuniza-2_T3
+USME,BOG.Chuniza-4_L1
+USME,BOG.Chuniza-4_L2
+USME,BOG.Chuniza-4_L3
+USME,BOG.Chuniza-4_M1
+USME,BOG.Chuniza-4_M2
+USME,BOG.Chuniza-4_M3
+USME,BOG.Chuniza-4_R1
+USME,BOG.Chuniza-4_R2
+USME,BOG.Chuniza-4_R3
+USME,BOG.Chuniza-4_T1
+USME,BOG.Chuniza-4_T2
+USME,BOG.Chuniza-4_T3
+USME,BOG.Chuniza_L1
+USME,BOG.Chuniza_L2
+USME,BOG.Chuniza_L3
+USME,BOG.Chuniza_M1
+USME,BOG.Chuniza_M2
+USME,BOG.Chuniza_M3
+USME,BOG.Chuniza_T1
+USME,BOG.Chuniza_T2
+USME,BOG.Chuniza_T3
+USME,BOG.Costa Rica_L1
+USME,BOG.Costa Rica_L2
+USME,BOG.Costa Rica_M1
+USME,BOG.Costa Rica_T1
+USME,BOG.Costa Rica_T2
+USME,BOG.El Uval_L1
+USME,BOG.El Uval_L2
+USME,BOG.El Uval_L3
+USME,BOG.El Uval_M1
+USME,BOG.El Uval_M2
+USME,BOG.El Uval_R1
+USME,BOG.El Uval_R2
+USME,BOG.El Uval_R3
+USME,BOG.El Uval_T1
+USME,BOG.El Uval_T2
+USME,BOG.El Uval_T3
+USME,BOG.Gran Yomasa_L1
+USME,BOG.Gran Yomasa_L2
+USME,BOG.Gran Yomasa_L3
+USME,BOG.Gran Yomasa_M1
+USME,BOG.Gran Yomasa_M2
+USME,BOG.Gran Yomasa_M3
+USME,BOG.Gran Yomasa_R1
+USME,BOG.Gran Yomasa_R2
+USME,BOG.Gran Yomasa_R3
+USME,BOG.Gran Yomasa_T1
+USME,BOG.Gran Yomasa_T2
+USME,BOG.Gran Yomasa_T3
+USME,BOG.Juan Rey-3_L1
+USME,BOG.Juan Rey-3_L2
+USME,BOG.Juan Rey-3_M1
+USME,BOG.Juan Rey-3_T1
+USME,BOG.Juan Rey-3_T2
+USME,BOG.La Andrea_L1
+USME,BOG.La Andrea_L2
+USME,BOG.La Andrea_L3
+USME,BOG.La Andrea_M1
+USME,BOG.La Andrea_M2
+USME,BOG.La Andrea_M3
+USME,BOG.La Andrea_T1
+USME,BOG.La Andrea_T2
+USME,BOG.La Andrea_T3
+USME,BOG.Las Violetas_L1
+USME,BOG.Las Violetas_L2
+USME,BOG.Las Violetas_M1
+USME,BOG.Las Violetas_M2
+USME,BOG.Las Violetas_T1
+USME,BOG.Las Violetas_T2
+USME,BOG.Marichuela_L1
+USME,BOG.Marichuela_L2
+USME,BOG.Marichuela_L3
+USME,BOG.Marichuela_M1
+USME,BOG.Marichuela_M2
+USME,BOG.Marichuela_M3
+USME,BOG.Marichuela_M4
+USME,BOG.Marichuela_M6
+USME,BOG.Marichuela_R1
+USME,BOG.Marichuela_R2
+USME,BOG.Marichuela_R3
+USME,BOG.Marichuela_T1
+USME,BOG.Marichuela_T2
+USME,BOG.Marichuela_T3
+USME,BOG.Monte Blanco_L1
+USME,BOG.Monte Blanco_L2
+USME,BOG.Monte Blanco_L3
+USME,BOG.Monte Blanco_M1
+USME,BOG.Monte Blanco_M2
+USME,BOG.Monte Blanco_M3
+USME,BOG.Monte Blanco_R1
+USME,BOG.Monte Blanco_R2
+USME,BOG.Monte Blanco_R3
+USME,BOG.Monte Blanco_T1
+USME,BOG.Monte Blanco_T2
+USME,BOG.Monte Blanco_T3
+USME,BOG.Nelly_L1
+USME,BOG.Nelly_L2
+USME,BOG.Nelly_L3
+USME,BOG.Nelly_M1
+USME,BOG.Nelly_M2
+USME,BOG.Nelly_M3
+USME,BOG.Nelly_R1
+USME,BOG.Nelly_R2
+USME,BOG.Nelly_R3
+USME,BOG.Nelly_T1
+USME,BOG.Nelly_T2
+USME,BOG.Nelly_T3
+USME,BOG.Portal Usme-2_L1
+USME,BOG.Portal Usme-2_L2
+USME,BOG.Portal Usme-2_L3
+USME,BOG.Portal Usme-2_M1
+USME,BOG.Portal Usme-2_M2
+USME,BOG.Portal Usme-2_M3
+USME,BOG.Portal Usme-2_T1
+USME,BOG.Portal Usme-2_T2
+USME,BOG.Portal Usme-2_T3
+USME,BOG.Portal Usme-3_L1
+USME,BOG.Portal Usme-3_L2
+USME,BOG.Portal Usme-3_L3
+USME,BOG.Portal Usme-3_M1
+USME,BOG.Portal Usme-3_M2
+USME,BOG.Portal Usme-3_M3
+USME,BOG.Portal Usme-3_T1
+USME,BOG.Portal Usme-3_T2
+USME,BOG.Portal Usme-3_T3
+USME,BOG.Portal Usme_L1
+USME,BOG.Portal Usme_L2
+USME,BOG.Portal Usme_L3
+USME,BOG.Portal Usme_M1
+USME,BOG.Portal Usme_M2
+USME,BOG.Portal Usme_M3
+USME,BOG.Portal Usme_R1
+USME,BOG.Portal Usme_R2
+USME,BOG.Portal Usme_R3
+USME,BOG.Portal Usme_T1
+USME,BOG.Portal Usme_T2
+USME,BOG.Portal Usme_T3
+USME,BOG.Santa Librada-2_L1
+USME,BOG.Santa Librada-2_L2
+USME,BOG.Santa Librada-2_L3
+USME,BOG.Santa Librada-2_M1
+USME,BOG.Santa Librada-2_M2
+USME,BOG.Santa Librada-2_M3
+USME,BOG.Santa Librada-2_M4
+USME,BOG.Santa Librada-2_T1
+USME,BOG.Santa Librada-2_T2
+USME,BOG.Santa Librada-2_T3
+USME,BOG.Serranias-2_L1
+USME,BOG.Serranias-2_L2
+USME,BOG.Serranias-2_L3
+USME,BOG.Serranias-2_M1
+USME,BOG.Serranias-2_M2
+USME,BOG.Serranias-2_M3
+USME,BOG.Serranias-2_R1
+USME,BOG.Serranias-2_R2
+USME,BOG.Serranias-2_R3
+USME,BOG.Serranias-2_T1
+USME,BOG.Serranias-2_T2
+USME,BOG.Serranias-2_T3
+USME,BOG.Serranias_L1
+USME,BOG.Serranias_L2
+USME,BOG.Serranias_L3
+USME,BOG.Serranias_M2
+USME,BOG.Serranias_M3
+USME,BOG.Serranias_M5
+USME,BOG.Serranias_T1
+USME,BOG.Serranias_T2
+USME,BOG.Serranias_T3
+USME,BOG.Sta Librada_L1
+USME,BOG.Sta Librada_L2
+USME,BOG.Sta Librada_L3
+USME,BOG.Sta Librada_M1
+USME,BOG.Sta Librada_M2
+USME,BOG.Sta Librada_M3
+USME,BOG.Sta Librada_M5
+USME,BOG.Sta Librada_M6
+USME,BOG.Sta Librada_T1
+USME,BOG.Sta Librada_T2
+USME,BOG.Sta Librada_T3
+USME,BOG.Tenerife_L1
+USME,BOG.Tenerife_L2
+USME,BOG.Tenerife_L3
+USME,BOG.Tenerife_M1
+USME,BOG.Tenerife_M2
+USME,BOG.Tenerife_R1
+USME,BOG.Tenerife_R2
+USME,BOG.Tenerife_R3
+USME,BOG.Tenerife_T1
+USME,BOG.Tenerife_T2
+USME,BOG.Tenerife_T3
+USME,BOG.Yomasa-2_L1
+USME,BOG.Yomasa-2_L2
+USME,BOG.Yomasa-2_M1
+USME,BOG.Yomasa-2_M2
+USME,BOG.Yomasa-2_T1
+USME,BOG.Yomasa-2_T2
+USME,BOG.Yomasa_L1
+USME,BOG.Yomasa_L2
+USME,BOG.Yomasa_L3
+USME,BOG.Yomasa_M1
+USME,BOG.Yomasa_M2
+USME,BOG.Yomasa_M4
+USME,BOG.Yomasa_M5
+USME,BOG.Yomasa_R1
+USME,BOG.Yomasa_R2
+USME,BOG.Yomasa_T1
+USME,BOG.Yomasa_T2
+USME,BOG.Yomasa_T3
+USME,CUN.Australia_M2
+USME,CUN.Australia_M3
+USME,CUN.Australia_M6
+USME,CUN.Usme-2_L1
+USME,CUN.Usme-2_L2
+USME,CUN.Usme-2_L3
+USME,CUN.Usme-2_M1
+USME,CUN.Usme-2_M2
+USME,CUN.Usme-2_M4
+USME,CUN.Usme-2_M5
+USME,CUN.Usme-2_T1
+USME,CUN.Usme-2_T2
+USME,CUN.Usme-2_T3
+USME,CUN.Usme_L1
+USME,CUN.Usme_L2
+USME,CUN.Usme_L3
+USME,CUN.Usme_M1
+USME,CUN.Usme_M2
+USME,CUN.Usme_M3
+USME,CUN.Usme_R1
+USME,CUN.Usme_R2
+USME,CUN.Usme_R3
+USME,CUN.Usme_T1
+USME,CUN.Usme_T2
+USME,CUN.Usme_T3
+IPIALES,NAR.IND CAV Claro Ipiales_L1
+IPIALES,NAR.IND CAV Ipiales_M1
+IPIALES,NAR.IND CAV Ipiales_M2
+IPIALES,NAR.IND Transcointer_L1
+IPIALES,NAR.Ipiales-10_L1
+IPIALES,NAR.Ipiales-10_L2
+IPIALES,NAR.Ipiales-10_L3
+IPIALES,NAR.Ipiales-10_M1
+IPIALES,NAR.Ipiales-10_M2
+IPIALES,NAR.Ipiales-10_M3
+IPIALES,NAR.Ipiales-10_T1
+IPIALES,NAR.Ipiales-10_T2
+IPIALES,NAR.Ipiales-10_T3
+IPIALES,NAR.Ipiales-11_L1
+IPIALES,NAR.Ipiales-11_L2
+IPIALES,NAR.Ipiales-11_L3
+IPIALES,NAR.Ipiales-11_M1
+IPIALES,NAR.Ipiales-11_M2
+IPIALES,NAR.Ipiales-11_M3
+IPIALES,NAR.Ipiales-11_T1
+IPIALES,NAR.Ipiales-11_T2
+IPIALES,NAR.Ipiales-11_T3
+IPIALES,NAR.Ipiales-13_L1
+IPIALES,NAR.Ipiales-13_L2
+IPIALES,NAR.Ipiales-13_L3
+IPIALES,NAR.Ipiales-13_M1
+IPIALES,NAR.Ipiales-13_M2
+IPIALES,NAR.Ipiales-13_M3
+IPIALES,NAR.Ipiales-13_T1
+IPIALES,NAR.Ipiales-13_T2
+IPIALES,NAR.Ipiales-13_T3
+IPIALES,NAR.Ipiales-15_L1
+IPIALES,NAR.Ipiales-15_L2
+IPIALES,NAR.Ipiales-15_L3
+IPIALES,NAR.Ipiales-15_M1
+IPIALES,NAR.Ipiales-15_M2
+IPIALES,NAR.Ipiales-15_M3
+IPIALES,NAR.Ipiales-15_T1
+IPIALES,NAR.Ipiales-15_T2
+IPIALES,NAR.Ipiales-15_T3
+IPIALES,NAR.Ipiales-1_L1
+IPIALES,NAR.Ipiales-1_L2
+IPIALES,NAR.Ipiales-1_L3
+IPIALES,NAR.Ipiales-1_M1
+IPIALES,NAR.Ipiales-1_M2
+IPIALES,NAR.Ipiales-1_M3
+IPIALES,NAR.Ipiales-1_T1
+IPIALES,NAR.Ipiales-1_T2
+IPIALES,NAR.Ipiales-1_T3
+IPIALES,NAR.Ipiales-20_L1
+IPIALES,NAR.Ipiales-20_L2
+IPIALES,NAR.Ipiales-20_L3
+IPIALES,NAR.Ipiales-20_M1
+IPIALES,NAR.Ipiales-20_M2
+IPIALES,NAR.Ipiales-20_M3
+IPIALES,NAR.Ipiales-3_L1
+IPIALES,NAR.Ipiales-3_L2
+IPIALES,NAR.Ipiales-3_L3
+IPIALES,NAR.Ipiales-3_M1
+IPIALES,NAR.Ipiales-3_M2
+IPIALES,NAR.Ipiales-3_M3
+IPIALES,NAR.Ipiales-3_T1
+IPIALES,NAR.Ipiales-3_T2
+IPIALES,NAR.Ipiales-3_T3
+IPIALES,NAR.Ipiales-4_L1
+IPIALES,NAR.Ipiales-4_L2
+IPIALES,NAR.Ipiales-4_L3
+IPIALES,NAR.Ipiales-4_M1
+IPIALES,NAR.Ipiales-4_M2
+IPIALES,NAR.Ipiales-4_M3
+IPIALES,NAR.Ipiales-4_T1
+IPIALES,NAR.Ipiales-4_T2
+IPIALES,NAR.Ipiales-4_T3
+IPIALES,NAR.Ipiales-6_L1
+IPIALES,NAR.Ipiales-6_L2
+IPIALES,NAR.Ipiales-6_L3
+IPIALES,NAR.Ipiales-6_M1
+IPIALES,NAR.Ipiales-6_M2
+IPIALES,NAR.Ipiales-6_M3
+IPIALES,NAR.Ipiales-6_T1
+IPIALES,NAR.Ipiales-6_T2
+IPIALES,NAR.Ipiales-6_T3
+IPIALES,NAR.Ipiales-7_L1
+IPIALES,NAR.Ipiales-7_L2
+IPIALES,NAR.Ipiales-7_L3
+IPIALES,NAR.Ipiales-7_M1
+IPIALES,NAR.Ipiales-7_M2
+IPIALES,NAR.Ipiales-7_M3
+IPIALES,NAR.Ipiales-7_T1
+IPIALES,NAR.Ipiales-7_T2
+IPIALES,NAR.Ipiales-7_T3
+IPIALES,NAR.Ipiales-9_L1
+IPIALES,NAR.Ipiales-9_L2
+IPIALES,NAR.Ipiales-9_L3
+IPIALES,NAR.Ipiales-9_M1
+IPIALES,NAR.Ipiales-9_M2
+IPIALES,NAR.Ipiales-9_M3
+IPIALES,NAR.Ipiales-9_T1
+IPIALES,NAR.Ipiales-9_T2
+IPIALES,NAR.Ipiales-9_T3
+IPIALES,NAR.Las Cruces_L1
+IPIALES,NAR.Las Cruces_L3
+IPIALES,NAR.Las Cruces_M1
+IPIALES,NAR.Las Cruces_M2
+IPIALES,NAR.Las Cruces_M3
+IPIALES,NAR.Las Cruces_T1
+IPIALES,NAR.Las Cruces_T3
+IPIALES,NAR.Potosi_L1
+IPIALES,NAR.Potosi_L2
+IPIALES,NAR.Potosi_M1
+IPIALES,NAR.Potosi_M2
+IPIALES,NAR.RB Ipiales-5_L1
+IPIALES,NAR.RB Ipiales-5_L2
+IPIALES,NAR.RB Ipiales-5_L3
+IPIALES,NAR.RB Ipiales-5_M1
+IPIALES,NAR.RB Ipiales-5_M2
+IPIALES,NAR.RB Ipiales-5_M3
+IPIALES,NAR.RB Ipiales-5_T1
+IPIALES,NAR.RB Ipiales-5_T2
+IPIALES,NAR.RB Ipiales-5_T3
+IPIALES,NAR.Rumichaca_L1
+IPIALES,NAR.Rumichaca_L2
+IPIALES,NAR.Rumichaca_L3
+IPIALES,NAR.Rumichaca_M1
+IPIALES,NAR.Rumichaca_M2
+IPIALES,NAR.Rumichaca_M3
+IPIALES,NAR.Rumichaca_T1
+IPIALES,NAR.Rumichaca_T2
+IPIALES,NAR.Rumichaca_T3
+IPIALES,NAR.Sucumbios_M1
+Medellin Poblado,MED.10 con Inferior_L1
+Medellin Poblado,MED.10 con Inferior_L2
+Medellin Poblado,MED.10 con Inferior_L3
+Medellin Poblado,MED.Aguacatala_L1
+Medellin Poblado,MED.Aguacatala_L2
+Medellin Poblado,MED.Aguacatala_L3
+Medellin Poblado,MED.Aguacatala_M4
+Medellin Poblado,MED.Aguacatala_T1
+Medellin Poblado,MED.Aguacatala_T2
+Medellin Poblado,MED.Aguacatala_T3
+Medellin Poblado,MED.Balsos con 34-3_L1
+Medellin Poblado,MED.Balsos con 34-3_L2
+Medellin Poblado,MED.Balsos con 34-3_M1
+Medellin Poblado,MED.Balsos con 34-3_M2
+Medellin Poblado,MED.Balsos con 34-3_M3
+Medellin Poblado,MED.Balsos con 34_L1
+Medellin Poblado,MED.Balsos con 34_L2
+Medellin Poblado,MED.Balsos con 34_M1
+Medellin Poblado,MED.Balsos con 34_M2
+Medellin Poblado,MED.Balsos con Tesoro_L1
+Medellin Poblado,MED.Balsos con Tesoro_L2
+Medellin Poblado,MED.Balsos con Tesoro_M1
+Medellin Poblado,MED.Balsos con Tesoro_M2
+Medellin Poblado,MED.BancolombiaSNorte:H3_L1
+Medellin Poblado,MED.BancolombiaSNorte:H3_T1
+Medellin Poblado,MED.BancolombiaTNorte:H1_L1
+Medellin Poblado,MED.BancolombiaTNorte:H2_L1
+Medellin Poblado,MED.BancolombiaTSur:H1_L1
+Medellin Poblado,MED.BancolombiaTSur:H2_L1
+Medellin Poblado,MED.BancolombiaTSur:H3_L1
+Medellin Poblado,MED.CC PUNTO CLAVE_L1
+Medellin Poblado,MED.CC PUNTO CLAVE_L2
+Medellin Poblado,MED.CC PUNTO CLAVE_T1
+Medellin Poblado,MED.CC PUNTO CLAVE_T2
+Medellin Poblado,MED.CC Punto Clave_M1
+Medellin Poblado,MED.CC Punto Clave_M2
+Medellin Poblado,MED.CC Punto Clave_M3
+Medellin Poblado,MED.CC Santafe:H1_L1
+Medellin Poblado,MED.CC Santafe:H1_M1
+Medellin Poblado,MED.CC Santafe:H2_L1
+Medellin Poblado,MED.CC Santafe:H2_M1
+Medellin Poblado,MED.CC Santafe_L1
+Medellin Poblado,MED.CC Santafe_M1
+Medellin Poblado,MED.CC Santafe_T1
+Medellin Poblado,MED.CC Tesoro_L1
+Medellin Poblado,MED.CC Tesoro_L2
+Medellin Poblado,MED.CC Tesoro_L3
+Medellin Poblado,MED.CC Tesoro_M1
+Medellin Poblado,MED.CC Tesoro_M2
+Medellin Poblado,MED.CC Tesoro_M3
+Medellin Poblado,MED.CC Tesoro_M4
+Medellin Poblado,MED.CC Tesoro_M6
+Medellin Poblado,MED.CC Tesoro_T1
+Medellin Poblado,MED.CC Tesoro_T2
+Medellin Poblado,MED.CC Tesoro_T3
+Medellin Poblado,MED.Cacharreria Mundial_L1
+Medellin Poblado,MED.Cacharreria Mundial_L2
+Medellin Poblado,MED.Carrefour Vegas_L1
+Medellin Poblado,MED.Carrefour Vegas_L2
+Medellin Poblado,MED.Carrefour Vegas_M1
+Medellin Poblado,MED.Carrefour Vegas_M2
+Medellin Poblado,MED.Carrefour Vegas_T1
+Medellin Poblado,MED.Carrefour Vegas_T2
+Medellin Poblado,MED.Carulla Palmas_L2
+Medellin Poblado,MED.Carulla Palmas_L3
+Medellin Poblado,MED.Carulla Palmas_M2
+Medellin Poblado,MED.Carulla Palmas_M3
+Medellin Poblado,MED.Carulla Palmas_T2
+Medellin Poblado,MED.Carulla Palmas_T3
+Medellin Poblado,MED.Castropol_L1
+Medellin Poblado,MED.Castropol_L2
+Medellin Poblado,MED.Castropol_L3
+Medellin Poblado,MED.Castropol_M1
+Medellin Poblado,MED.Castropol_M2
+Medellin Poblado,MED.Castropol_M3
+Medellin Poblado,MED.Castropol_T1
+Medellin Poblado,MED.Castropol_T2
+Medellin Poblado,MED.Castropol_T3
+Medellin Poblado,MED.Ciudad del Rio_L1
+Medellin Poblado,MED.Ciudad del Rio_L2
+Medellin Poblado,MED.Ciudad del Rio_L3
+Medellin Poblado,MED.Ciudad del Rio_M1
+Medellin Poblado,MED.Ciudad del Rio_M2
+Medellin Poblado,MED.Ciudad del Rio_M3
+Medellin Poblado,MED.Ciudad del Rio_M4
+Medellin Poblado,MED.Ciudad del Rio_T1
+Medellin Poblado,MED.Ciudad del Rio_T2
+Medellin Poblado,MED.Ciudad del Rio_T3
+Medellin Poblado,MED.Cl.Medellin_L1
+Medellin Poblado,MED.Cl.Medellin_L2
+Medellin Poblado,MED.Cl.Medellin_L3
+Medellin Poblado,MED.Cl.Medellin_M1
+Medellin Poblado,MED.Cl.Medellin_M2
+Medellin Poblado,MED.Cl.Medellin_M3
+Medellin Poblado,MED.Cl.Medellin_T1
+Medellin Poblado,MED.Cl.Medellin_T2
+Medellin Poblado,MED.Cl.Medellin_T3
+Medellin Poblado,MED.Cl.Rosario Poblado:H1_L1
+Medellin Poblado,MED.Cl.Rosario Poblado:H1_L2
+Medellin Poblado,MED.Cl.Rosario Poblado:H1_M1
+Medellin Poblado,MED.Cl.Rosario Poblado:H1_M2
+Medellin Poblado,MED.Cl.Rosario Poblado:H1_T1
+Medellin Poblado,MED.Cl.Rosario Poblado:H1_T2
+Medellin Poblado,MED.Cl.Rosario Poblado:H2_L2
+Medellin Poblado,MED.Cl.Rosario Poblado:H2_M1
+Medellin Poblado,MED.Cl.Rosario Poblado:H2_M2
+Medellin Poblado,MED.Cl.Rosario Poblado:H2_T2
+Medellin Poblado,MED.Cl.Rosario Poblado_L1
+Medellin Poblado,MED.Cl.Rosario Poblado_L2
+Medellin Poblado,MED.Cl.Rosario Poblado_M1
+Medellin Poblado,MED.Cl.Rosario Poblado_M2
+Medellin Poblado,MED.Cl.Rosario Poblado_M3
+Medellin Poblado,MED.Cl.Rosario Poblado_T1
+Medellin Poblado,MED.Cl.Rosario Poblado_T2
+Medellin Poblado,MED.Club Campestre_L1
+Medellin Poblado,MED.Club Campestre_L2
+Medellin Poblado,MED.Club Campestre_L3
+Medellin Poblado,MED.Club Campestre_M1
+Medellin Poblado,MED.Club Campestre_M2
+Medellin Poblado,MED.Club Campestre_M3
+Medellin Poblado,MED.Club Campestre_T1
+Medellin Poblado,MED.Club Campestre_T2
+Medellin Poblado,MED.Club Campestre_T3
+Medellin Poblado,MED.Cola del Zorro_L1
+Medellin Poblado,MED.Cola del Zorro_L2
+Medellin Poblado,MED.Cola del Zorro_L3
+Medellin Poblado,MED.Cola del Zorro_M1
+Medellin Poblado,MED.Cola del Zorro_M2
+Medellin Poblado,MED.Cola del Zorro_M3
+Medellin Poblado,MED.Cola del Zorro_T1
+Medellin Poblado,MED.Cola del Zorro_T2
+Medellin Poblado,MED.Cola del Zorro_T3
+Medellin Poblado,MED.Colegiatura_L1
+Medellin Poblado,MED.Colegiatura_M1
+Medellin Poblado,MED.Colegiatura_M2
+Medellin Poblado,MED.Colegiatura_T1
+Medellin Poblado,MED.Drive Inn_L1
+Medellin Poblado,MED.Drive Inn_L2
+Medellin Poblado,MED.Drive Inn_L3
+Medellin Poblado,MED.Drive Inn_M1
+Medellin Poblado,MED.Drive Inn_M2
+Medellin Poblado,MED.Drive Inn_M3
+Medellin Poblado,MED.Drive Inn_T1
+Medellin Poblado,MED.Drive Inn_T2
+Medellin Poblado,MED.Drive Inn_T3
+Medellin Poblado,MED.Electronica B_L1
+Medellin Poblado,MED.Electronica B_L2
+Medellin Poblado,MED.Electronica B_L3
+Medellin Poblado,MED.Electronica B_M1
+Medellin Poblado,MED.Electronica B_M2
+Medellin Poblado,MED.Electronica B_M3
+Medellin Poblado,MED.Electronica B_M4
+Medellin Poblado,MED.Electronica B_T1
+Medellin Poblado,MED.Electronica B_T2
+Medellin Poblado,MED.Electronica B_T3
+Medellin Poblado,MED.Ensenanza_L1
+Medellin Poblado,MED.Ensenanza_L2
+Medellin Poblado,MED.Ensenanza_L3
+Medellin Poblado,MED.Ensenanza_M1
+Medellin Poblado,MED.Ensenanza_M2
+Medellin Poblado,MED.Ensenanza_M3
+Medellin Poblado,MED.Ensenanza_T1
+Medellin Poblado,MED.Ensenanza_T2
+Medellin Poblado,MED.Ensenanza_T3
+Medellin Poblado,MED.Exito Poblado_L1
+Medellin Poblado,MED.Exito Poblado_L2
+Medellin Poblado,MED.Exito Poblado_L3
+Medellin Poblado,MED.Exito Poblado_M1
+Medellin Poblado,MED.Exito Poblado_M2
+Medellin Poblado,MED.Exito Poblado_M3
+Medellin Poblado,MED.Exito Poblado_R1
+Medellin Poblado,MED.Exito Poblado_R2
+Medellin Poblado,MED.Exito Poblado_R3
+Medellin Poblado,MED.Exito Poblado_T1
+Medellin Poblado,MED.Exito Poblado_T2
+Medellin Poblado,MED.Exito Poblado_T3
+Medellin Poblado,MED.Hotel Dann_L1
+Medellin Poblado,MED.Hotel Dann_L2
+Medellin Poblado,MED.Hotel Dann_L3
+Medellin Poblado,MED.Hotel Dann_M1
+Medellin Poblado,MED.Hotel Dann_M2
+Medellin Poblado,MED.Hotel Dann_M3
+Medellin Poblado,MED.Hotel Dann_M4
+Medellin Poblado,MED.Hotel Dann_M6
+Medellin Poblado,MED.Hotel Dann_T1
+Medellin Poblado,MED.Hotel Dann_T2
+Medellin Poblado,MED.Hotel Dann_T3
+Medellin Poblado,MED.Hotel Inter_L1
+Medellin Poblado,MED.Hotel Inter_T1
+Medellin Poblado,MED.IND AON_L1
+Medellin Poblado,MED.IND AXA Seguros_L1
+Medellin Poblado,MED.IND AyC_L1
+Medellin Poblado,MED.IND Banafrut_L1
+Medellin Poblado,MED.IND Bancolombia PC_L1
+Medellin Poblado,MED.IND Bancolombia PC_L3
+Medellin Poblado,MED.IND Bancolombia PC_L4
+Medellin Poblado,MED.IND Bancolombia StaFe_L1
+Medellin Poblado,MED.IND CAES_L1
+Medellin Poblado,MED.IND CAV CC Premium_L1
+Medellin Poblado,MED.IND CAV CC Santafe_L1
+Medellin Poblado,MED.IND CC Premium:H1_L3
+Medellin Poblado,MED.IND CC Premium:H1_M3
+Medellin Poblado,MED.IND CC Premium:H1_T3
+Medellin Poblado,MED.IND CC Premium:H2_L1
+Medellin Poblado,MED.IND CC Premium:H2_L2
+Medellin Poblado,MED.IND CC Premium:H2_M1
+Medellin Poblado,MED.IND CC Premium:H2_M2
+Medellin Poblado,MED.IND CC Premium:H2_T1
+Medellin Poblado,MED.IND CC Premium:H2_T2
+Medellin Poblado,MED.IND CC Premium:H3_L3
+Medellin Poblado,MED.IND CC Premium:H3_M3
+Medellin Poblado,MED.IND CC Premium:H3_T3
+Medellin Poblado,MED.IND Escada_L1
+Medellin Poblado,MED.IND Estudio Moda Oficinas_L1
+Medellin Poblado,MED.IND FUNDEXPORT_L1
+Medellin Poblado,MED.IND Falabella CC Santafe_L1
+Medellin Poblado,MED.IND Falabella CC Santafe_L2
+Medellin Poblado,MED.IND Flamingo VIP_L1
+Medellin Poblado,MED.IND Gases Industriales_L1
+Medellin Poblado,MED.IND Gramalote_L1
+Medellin Poblado,MED.IND Hospitales_L1
+Medellin Poblado,MED.IND Megacenter:H1_L1
+Medellin Poblado,MED.IND Melco Milla_L1
+Medellin Poblado,MED.IND Parque Tesoro:H1_L1
+Medellin Poblado,MED.IND Parque Tesoro:H1_M1
+Medellin Poblado,MED.IND Parque Tesoro:H1_T1
+Medellin Poblado,MED.IND Saferbo Forum-2_L1
+Medellin Poblado,MED.IND Samsung Poblado_L1
+Medellin Poblado,MED.IND Satrac Prisma_L1
+Medellin Poblado,MED.ISA_L1
+Medellin Poblado,MED.ISA_L2
+Medellin Poblado,MED.ISA_M1
+Medellin Poblado,MED.ISA_M2
+Medellin Poblado,MED.ISA_T1
+Medellin Poblado,MED.ISA_T2
+Medellin Poblado,MED.Inter_L1
+Medellin Poblado,MED.Inter_L2
+Medellin Poblado,MED.Inter_M1
+Medellin Poblado,MED.Inter_T1
+Medellin Poblado,MED.Inter_T2
+Medellin Poblado,MED.Intercambio Aguacatala_L1
+Medellin Poblado,MED.Intercambio Aguacatala_L3
+Medellin Poblado,MED.Intercambio Aguacatala_M1
+Medellin Poblado,MED.Intercambio Aguacatala_M2
+Medellin Poblado,MED.Intercambio Aguacatala_M3
+Medellin Poblado,MED.Intercambio Aguacatala_T1
+Medellin Poblado,MED.Intercambio Aguacatala_T3
+Medellin Poblado,MED.La Florida_M1
+Medellin Poblado,MED.La Florida_M2
+Medellin Poblado,MED.La Florida_M3
+Medellin Poblado,MED.La Frontera_L1
+Medellin Poblado,MED.La Frontera_L2
+Medellin Poblado,MED.La Frontera_L3
+Medellin Poblado,MED.La Frontera_M1
+Medellin Poblado,MED.La Frontera_M2
+Medellin Poblado,MED.La Frontera_T1
+Medellin Poblado,MED.La Frontera_T2
+Medellin Poblado,MED.La Frontera_T3
+Medellin Poblado,MED.Las Palmas_L1
+Medellin Poblado,MED.Las Palmas_L2
+Medellin Poblado,MED.Las Palmas_M1
+Medellin Poblado,MED.Las Palmas_M2
+Medellin Poblado,MED.Las Palmas_T1
+Medellin Poblado,MED.Las Palmas_T2
+Medellin Poblado,MED.Lleras_L1
+Medellin Poblado,MED.Lleras_L2
+Medellin Poblado,MED.Lleras_L3
+Medellin Poblado,MED.Lleras_M1
+Medellin Poblado,MED.Lleras_M2
+Medellin Poblado,MED.Lleras_M3
+Medellin Poblado,MED.Lleras_R1
+Medellin Poblado,MED.Lleras_R2
+Medellin Poblado,MED.Lleras_R3
+Medellin Poblado,MED.Lleras_T1
+Medellin Poblado,MED.Lleras_T2
+Medellin Poblado,MED.Lleras_T3
+Medellin Poblado,MED.Loma de los Benedictinos_L1
+Medellin Poblado,MED.Loma de los Benedictinos_L2
+Medellin Poblado,MED.Loma de los Benedictinos_M1
+Medellin Poblado,MED.Loma de los Benedictinos_M2
+Medellin Poblado,MED.Loma de los Benedictinos_M3
+Medellin Poblado,MED.Loma de los Gonzalez_L1
+Medellin Poblado,MED.Loma de los Gonzalez_L2
+Medellin Poblado,MED.Loma de los Gonzalez_L3
+Medellin Poblado,MED.Loma de los Gonzalez_M1
+Medellin Poblado,MED.Loma de los Gonzalez_M2
+Medellin Poblado,MED.Loma de los Gonzalez_M3
+Medellin Poblado,MED.Loma de los Gonzalez_T1
+Medellin Poblado,MED.Loma de los Gonzalez_T2
+Medellin Poblado,MED.Loma de los Gonzalez_T3
+Medellin Poblado,MED.Los Balsos_L1
+Medellin Poblado,MED.Los Balsos_L2
+Medellin Poblado,MED.Los Balsos_M1
+Medellin Poblado,MED.Los Balsos_M2
+Medellin Poblado,MED.Manila_L1
+Medellin Poblado,MED.Manila_L2
+Medellin Poblado,MED.Manila_L3
+Medellin Poblado,MED.Manila_M1
+Medellin Poblado,MED.Manila_M2
+Medellin Poblado,MED.Manila_M3
+Medellin Poblado,MED.Manila_T1
+Medellin Poblado,MED.Manila_T2
+Medellin Poblado,MED.Manila_T3
+Medellin Poblado,MED.Megacenter_L1
+Medellin Poblado,MED.Megacenter_L2
+Medellin Poblado,MED.Megacenter_L3
+Medellin Poblado,MED.Megacenter_M1
+Medellin Poblado,MED.Megacenter_M2
+Medellin Poblado,MED.Megacenter_M3
+Medellin Poblado,MED.Megacenter_M4
+Medellin Poblado,MED.Megacenter_T1
+Medellin Poblado,MED.Megacenter_T2
+Medellin Poblado,MED.Megacenter_T3
+Medellin Poblado,MED.Milla de Oro_L1
+Medellin Poblado,MED.Milla de Oro_L2
+Medellin Poblado,MED.Milla de Oro_L3
+Medellin Poblado,MED.Milla de Oro_M1
+Medellin Poblado,MED.Milla de Oro_M2
+Medellin Poblado,MED.Milla de Oro_M3
+Medellin Poblado,MED.Milla de Oro_M4
+Medellin Poblado,MED.Milla de Oro_R1
+Medellin Poblado,MED.Milla de Oro_R2
+Medellin Poblado,MED.Milla de Oro_R3
+Medellin Poblado,MED.Milla de Oro_T1
+Medellin Poblado,MED.Milla de Oro_T2
+Medellin Poblado,MED.Milla de Oro_T3
+Medellin Poblado,MED.Mirador Palmas:H1 ALT2_L1
+Medellin Poblado,MED.Mirador_L1
+Medellin Poblado,MED.Mirador_M1
+Medellin Poblado,MED.Mirador_M2
+Medellin Poblado,MED.Mirador_T1
+Medellin Poblado,MED.Monterrey_L1
+Medellin Poblado,MED.Monterrey_L2
+Medellin Poblado,MED.Monterrey_L3
+Medellin Poblado,MED.Monterrey_L4
+Medellin Poblado,MED.Monterrey_M1
+Medellin Poblado,MED.Monterrey_M2
+Medellin Poblado,MED.Monterrey_M3
+Medellin Poblado,MED.Monterrey_M4
+Medellin Poblado,MED.Monterrey_M6
+Medellin Poblado,MED.Monterrey_T1
+Medellin Poblado,MED.Monterrey_T2
+Medellin Poblado,MED.Monterrey_T3
+Medellin Poblado,MED.Monterrey_T4
+Medellin Poblado,MED.New School Palmas_L1
+Medellin Poblado,MED.New School Palmas_L2
+Medellin Poblado,MED.New School Palmas_M1
+Medellin Poblado,MED.New School Palmas_M2
+Medellin Poblado,MED.New School Palmas_T1
+Medellin Poblado,MED.New School Palmas_T2
+Medellin Poblado,MED.Palmas Chuscalito ALT1_L1
+Medellin Poblado,MED.Palmas Chuscalito ALT1_L2
+Medellin Poblado,MED.Palmas Euro_L1
+Medellin Poblado,MED.Palmas Euro_L2
+Medellin Poblado,MED.Palmas Euro_M1
+Medellin Poblado,MED.Palmas Euro_M2
+Medellin Poblado,MED.Palmas Euro_T1
+Medellin Poblado,MED.Palmas Euro_T2
+Medellin Poblado,MED.Palmas Salle ALT 1_L1
+Medellin Poblado,MED.Palmas Salle ALT1_L2
+Medellin Poblado,MED.Palmas Salle_L1
+Medellin Poblado,MED.Palmas Salle_L2
+Medellin Poblado,MED.Palmas Salle_M1
+Medellin Poblado,MED.Palmas Salle_M2
+Medellin Poblado,MED.Palms Avennue ALT1_L1
+Medellin Poblado,MED.Palms Avennue ALT1_L2
+Medellin Poblado,MED.Palms Avennue_L1
+Medellin Poblado,MED.Palms Avennue_L2
+Medellin Poblado,MED.Palms Avennue_M1
+Medellin Poblado,MED.Palms Avennue_M2
+Medellin Poblado,MED.Palms Avennue_T1
+Medellin Poblado,MED.Palms Avennue_T2
+Medellin Poblado,MED.Parmenia Palmas_L1
+Medellin Poblado,MED.Parmenia Palmas_L2
+Medellin Poblado,MED.Parmenia Palmas_M1
+Medellin Poblado,MED.Parmenia Palmas_M2
+Medellin Poblado,MED.Parque Lleras_L1
+Medellin Poblado,MED.Parque Lleras_L2
+Medellin Poblado,MED.Parque Lleras_M1
+Medellin Poblado,MED.Parque Lleras_M2
+Medellin Poblado,MED.Parque Lleras_M3
+Medellin Poblado,MED.Parque Lleras_M5
+Medellin Poblado,MED.Parque Lleras_T1
+Medellin Poblado,MED.Parque Lleras_T2
+Medellin Poblado,MED.Patio Bonito_L1
+Medellin Poblado,MED.Patio Bonito_L2
+Medellin Poblado,MED.Patio Bonito_M1
+Medellin Poblado,MED.Patio Bonito_M2
+Medellin Poblado,MED.Patio Bonito_M3
+Medellin Poblado,MED.Patio Bonito_R1
+Medellin Poblado,MED.Patio Bonito_R2
+Medellin Poblado,MED.Patio Bonito_T1
+Medellin Poblado,MED.Patio Bonito_T2
+Medellin Poblado,MED.Piazzabella_L1
+Medellin Poblado,MED.Piazzabella_L2
+Medellin Poblado,MED.Piazzabella_L3
+Medellin Poblado,MED.Piazzabella_M1
+Medellin Poblado,MED.Piazzabella_M2
+Medellin Poblado,MED.Piazzabella_M3
+Medellin Poblado,MED.Piazzabella_T1
+Medellin Poblado,MED.Piazzabella_T2
+Medellin Poblado,MED.Piazzabella_T3
+Medellin Poblado,MED.Pintuco_L1
+Medellin Poblado,MED.Pintuco_L3
+Medellin Poblado,MED.Pintuco_M1
+Medellin Poblado,MED.Pintuco_M2
+Medellin Poblado,MED.Poblado_L1
+Medellin Poblado,MED.Poblado_M1
+Medellin Poblado,MED.Poblado_M2
+Medellin Poblado,MED.Poblado_M3
+Medellin Poblado,MED.Poblado_T1
+Medellin Poblado,MED.Punto Clave_L1
+Medellin Poblado,MED.Punto Clave_L2
+Medellin Poblado,MED.Punto Clave_M1
+Medellin Poblado,MED.Punto Clave_M2
+Medellin Poblado,MED.Punto Clave_M3
+Medellin Poblado,MED.Punto Clave_T1
+Medellin Poblado,MED.Punto Clave_T2
+Medellin Poblado,MED.RB Hato Viejo_L1
+Medellin Poblado,MED.RB Hato Viejo_L2
+Medellin Poblado,MED.San Carbon_L1
+Medellin Poblado,MED.San Carbon_L2
+Medellin Poblado,MED.San Carbon_M1
+Medellin Poblado,MED.San Carbon_M2
+Medellin Poblado,MED.San Carbon_M3
+Medellin Poblado,MED.San Carbon_M6
+Medellin Poblado,MED.San Carbon_T1
+Medellin Poblado,MED.San Carbon_T2
+Medellin Poblado,MED.San Lucas-2_L1
+Medellin Poblado,MED.San Lucas-2_L2
+Medellin Poblado,MED.San Lucas-2_L3
+Medellin Poblado,MED.San Lucas-2_M1
+Medellin Poblado,MED.San Lucas-2_M2
+Medellin Poblado,MED.San Lucas-2_M3
+Medellin Poblado,MED.San Lucas-2_T1
+Medellin Poblado,MED.San Lucas-2_T2
+Medellin Poblado,MED.San Lucas-2_T3
+Medellin Poblado,MED.San Lucas_L1
+Medellin Poblado,MED.San Lucas_L2
+Medellin Poblado,MED.San Lucas_L3
+Medellin Poblado,MED.San Lucas_M1
+Medellin Poblado,MED.San Lucas_M2
+Medellin Poblado,MED.San Lucas_R1
+Medellin Poblado,MED.San Lucas_R2
+Medellin Poblado,MED.San Lucas_T1
+Medellin Poblado,MED.San Lucas_T2
+Medellin Poblado,MED.San Lucas_T3
+Medellin Poblado,MED.Santa Maria de los Angeles_L1
+Medellin Poblado,MED.Santa Maria de los Angeles_L2
+Medellin Poblado,MED.Santa Maria de los Angeles_L3
+Medellin Poblado,MED.Santa Maria de los Angeles_M1
+Medellin Poblado,MED.Santa Maria de los Angeles_M2
+Medellin Poblado,MED.Santa Maria de los Angeles_M3
+Medellin Poblado,MED.Santa Maria de los Angeles_T1
+Medellin Poblado,MED.Santa Maria de los Angeles_T2
+Medellin Poblado,MED.Santa Maria de los Angeles_T3
+Medellin Poblado,MED.Santillana_L1
+Medellin Poblado,MED.Santillana_L2
+Medellin Poblado,MED.Santillana_L3
+Medellin Poblado,MED.Santillana_M1
+Medellin Poblado,MED.Santillana_M2
+Medellin Poblado,MED.Santillana_M3
+Medellin Poblado,MED.Santillana_M6
+Medellin Poblado,MED.Santillana_R1
+Medellin Poblado,MED.Santillana_R2
+Medellin Poblado,MED.Santillana_R3
+Medellin Poblado,MED.Santillana_T1
+Medellin Poblado,MED.Santillana_T2
+Medellin Poblado,MED.Santillana_T3
+Medellin Poblado,MED.Tesoro_L1
+Medellin Poblado,MED.Tesoro_L2
+Medellin Poblado,MED.Tesoro_T1
+Medellin Poblado,MED.Tesoro_T2
+Medellin Poblado,MED.Transversal Inferior_L1
+Medellin Poblado,MED.Transversal Inferior_L2
+Medellin Poblado,MED.Transversal Inferior_M1
+Medellin Poblado,MED.Transversal Inferior_M2
+Medellin Poblado,MED.Transversal Inferior_M3
+Medellin Poblado,MED.Transversal Inferior_T1
+Medellin Poblado,MED.Transversal Inferior_T2
+Medellin Poblado,MED.Transversal Superior_L1
+Medellin Poblado,MED.Transversal Superior_L2
+Medellin Poblado,MED.Transversal Superior_M1
+Medellin Poblado,MED.Transversal Superior_M2
+Medellin Poblado,MED.Transversal Superior_M3
+Medellin Poblado,MED.Transversal Superior_T1
+Medellin Poblado,MED.Transversal Superior_T2
+Medellin Poblado,MED.Unices_L1
+Medellin Poblado,MED.Unices_L2
+Medellin Poblado,MED.Unices_M1
+Medellin Poblado,MED.Unices_M2
+Medellin Poblado,MED.Unices_M3
+Medellin Poblado,MED.Vizcaya-1_L1
+Medellin Poblado,MED.Vizcaya-1_L2
+Medellin Poblado,MED.Vizcaya-1_L3
+Medellin Poblado,MED.Vizcaya-1_M1
+Medellin Poblado,MED.Vizcaya-1_M2
+Medellin Poblado,MED.Vizcaya-1_M3
+Medellin Poblado,MED.Vizcaya-1_T1
+Medellin Poblado,MED.Vizcaya-1_T2
+Medellin Poblado,MED.Vizcaya-1_T3
+Medellin Poblado,MED.Vizcaya-2:H1_L1
+Medellin Poblado,MED.Vizcaya-2:H1_L2
+Medellin Poblado,MED.Vizcaya-2:H1_M1
+Medellin Poblado,MED.Vizcaya-2:H1_M2
+Medellin Poblado,MED.Vizcaya-2:H1_M3
+Medellin Poblado,MED.Vizcaya-2:H1_R1
+Medellin Poblado,MED.Vizcaya-2:H1_R2
+Medellin Poblado,MED.Vizcaya-2:H1_T1
+Medellin Poblado,MED.Vizcaya-2:H1_T2
+Medellin Poblado,MED.Vizcaya-2_L1
+Medellin Poblado,MED.Vizcaya-2_L2
+Medellin Poblado,MED.Vizcaya-2_M1
+Medellin Poblado,MED.Vizcaya-2_M2
+Medellin Poblado,MED.Vizcaya-2_M3
+Medellin Poblado,MED.Vizcaya-2_T1
+Medellin Poblado,MED.Vizcaya-2_T2
+Medellin Poblado,MED.Vizcaya:H1_L2
+Medellin Poblado,MED.Vizcaya:H1_L3
+Medellin Poblado,MED.Vizcaya:H1_M1
+Medellin Poblado,MED.Vizcaya:H1_M2
+Medellin Poblado,MED.Vizcaya:H1_T2
+Medellin Poblado,MED.Vizcaya:H1_T3
+Medellin Poblado,MED.Zuniga_L1
+Medellin Poblado,MED.Zuniga_L2
+Medellin Poblado,MED.Zuniga_M1
+Medellin Poblado,MED.Zuniga_M2
+Medellin Poblado,MED.Zuniga_T1
+Medellin Poblado,MED.Zuniga_T2
